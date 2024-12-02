@@ -5,6 +5,7 @@ __pycache__/
 
 # Advent of code inputs
 input.txt
+test.txt
 
 # C extensions
 *.so
